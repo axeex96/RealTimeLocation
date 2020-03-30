@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603983506511",
+    "firebase_url": "https://gps-pilgrims.firebaseio.com",
+    "project_id": "gps-pilgrims",
+    "storage_bucket": "gps-pilgrims.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603983506511:android:c0401db7beba72a32fce3a",
+        "android_client_info": {
+          "package_name": "com.example.realtimelocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603983506511-c31j1o6n4fqolg5ujceppm5hnlbi1ins.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimelocation",
+            "certificate_hash": "8d20eddfe2ff658204903a8e40d4d4b9b41292ef"
+          }
+        },
+        {
+          "client_id": "603983506511-18e6olldv369nt6q19n4ss5vav1u5t78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhtn2KUr9LQW2TrhZx4QiQYz4Bp4aFpMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603983506511-18e6olldv369nt6q19n4ss5vav1u5t78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
